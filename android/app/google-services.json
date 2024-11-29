@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536761116653",
+    "project_id": "bachelorteam49",
+    "storage_bucket": "bachelorteam49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536761116653:android:7160081997ae3ebba8a9e4",
+        "android_client_info": {
+          "package_name": "com.example.bachelor2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUux8aQ8hqzuyfP6Di7r8iWSEAx1jINv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
